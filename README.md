@@ -4,8 +4,8 @@ This is a workshop for introduction in programming with Scretch targetting child
 
 ## Instructions
 
- * [Instructions English] (https://docs.google.com/document/d/e/2PACX-1vQjIfr48U95jdi8hchwFWfVhS9opKNHCOTqdPUDi1qthLJKwDDLLjcQrg9g8BhAKgM__UEa37EK3lG4/pub)
- * [Instructions Netherlands] (https://docs.google.com/document/d/e/2PACX-1vTZQRVg1oKj2DlbqUVUd8zx3583HKNatHpuBugCldwP4bA1CzWhy9oEYEgrIdZ1-a1hE55Fp3BdOgE8/pub)
+ * [Instructions English](https://docs.google.com/document/d/e/2PACX-1vQjIfr48U95jdi8hchwFWfVhS9opKNHCOTqdPUDi1qthLJKwDDLLjcQrg9g8BhAKgM__UEa37EK3lG4/pub)
+ * [Instructions Netherlands](https://docs.google.com/document/d/e/2PACX-1vTZQRVg1oKj2DlbqUVUd8zx3583HKNatHpuBugCldwP4bA1CzWhy9oEYEgrIdZ1-a1hE55Fp3BdOgE8/pub)
 ## Solution
 
 Can be found in the repository
