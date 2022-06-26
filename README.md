@@ -1,6 +1,17 @@
-## 1. Go to the Scratch MIT website
+# Auto Race with Scratch
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQjIfr48U95jdi8hchwFWfVhS9opKNHCOTqdPUDi1qthLJKwDDLLjcQrg9g8BhAKgM__UEa37EK3lG4/pub?embedded=true"></iframe>
+This is a workshop for introduction in programming with Scretch targetting children from 6-12 years. The goal of the workshop is to build a mini game in which the two players race echother on to a race track created by the student.  The game will introduce concepts such as variables, loops, conditions and simulation of real life physics with the help of a Scratch program. 
+
+## Instructions
+
+ [Instructions link](https://docs.google.com/document/d/e/2PACX-1vQjIfr48U95jdi8hchwFWfVhS9opKNHCOTqdPUDi1qthLJKwDDLLjcQrg9g8BhAKgM__UEa37EK3lG4/pub)
 
 
-## 2. Follow further instructions
+## Solution
+
+Can be found in the repository
+
+## Authors
+Alexandru Smeureanu
+Catalina Smeureanu
+Sebastian Smeureanu
